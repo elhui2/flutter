@@ -1,6 +1,6 @@
-# first_app
+# Facilista
 
-A new Flutter project.
+Trasteando el desarrollo de Flutter en un curso.
 
 ## Getting Started
 
